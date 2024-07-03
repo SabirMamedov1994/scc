@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8" />
+		<title>Document</title>
+		<link href="style.css" rel="stylesheet">
+		 .outline {
+    border: 1px solid red;
+    padding: 0 10px;
+   }
+	</head>
+	<body>
+		<div class="contener">
+		<div class="info">
+		<img src="/img/sabir.jpg" alt=""
+		class="sabir">
+		<h1>Aptek</h1>
+		<h2>Sabir Mamedov</h2>
+		<h3>Ezaci</h3>
+		<img src="/img/sabir1.jpg" alt=""
+		class="sabir1">
+		</div> 
+		</body>
+
+		
+		<div class="card bg-yellow" >
+		<h1> Is vaxt 10.00 17.00</h1>
+		</div>
+
+		<div>
+		<h2>Abed 13.00 14.00</h2>
+		<div class="card bg-green">
+		<h2>Seyfemiz</h2>
+		</div>
+		<li><a href="https://www.instagram.com/sabir.1994mamedov/">instagram</a></li>
+		|
+		<li><a href="https://www.facebook.com/">facebook</a></li>
+		</div>
+
+		<table border="1">
+		<tr>
+		<td>
+		<hr>
+
+		<table border="2">
+		<div class="card bg-yellow" >
+		<h1>is tercubem 1 il</h1>
+		</div>
+		<div class="card bg-green">
+		<h2>Zeytun aptek</h2>
+		</div>
+		</table>
+		
+		<div class="card bg-red" >
+		<h3>Zeferan</h3>
+		</div>
+		</table>
+		
+		</td>
+		</tr>
+		</table>
+	
+		<h4>Is nomrem </h4>
+		<form action="">
+			<label for="nome">Elage nomrem</label>
+			<input type="text" placeholder="+994557465366">
+			|
+			<label for="nome">Email</label>
+			<input type="text" placeholder="sabir1994@mail@.tu">
+	
+
+	
+		<a href="https://www.youtube.com/channel/UCPdnH-MmurtaaNb-6OXFoUA"></a>
+
+		<div>
+		<div class="contener">
+		<h2 class="card bg-red ">Yutube</h2>
+		</div>
+		</div>
+		
+		
+		<a href="https://www.youtube.com/channel/UCPdnH-MmurtaaNb-6OXFoUA">Смотреть</a>
+	
+		<hr>
+		
+		<label for="">Bura murecet ede bilersiniz </label>
+		<br>
+		<textarea id="trxt" rows="2"cols="15" ></textarea>
+		<br>
+		<!-- <input type="submit"> -->
+		
+		<div>
+		<img src="/img/aptek.jpg" alt=""
+		class="sabir3">
+		</div>
+
+	<!-- <div style="margin-bottom: 10px ;"></div> -->
+
+
+	<style>
+		body{
+			background-image:url(/img/sabir3.jpg);
+	}
+	</style>
+
+
+</body>
+</html>
